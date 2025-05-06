@@ -1,6 +1,12 @@
+Hit this command in app-full-stack folder
+
+sudo docker-compose up -d
+
+------------------------------------------------------------------------------------------------------------
+
 folder structure
 
-full-stack-app/
+app-full-stack/
 ├── backend/
 │   ├── src/
 │   │   └── index.js
@@ -18,7 +24,7 @@ full-stack-app/
 ├── docker-compose.yml
 
 ------------------------------------------------------------------------------------------------------------
-
+Follow below steps for running without docker
 run frontend code using 
 
 go to folder root and run the following commands
